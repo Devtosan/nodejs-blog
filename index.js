@@ -4,7 +4,7 @@ const expressLayout = require('express-ejs-layouts')
 const methodOverride = require('method-override')
 const session = require('express-session')
 const cookieParser = require('cookie-parser')
-const MongoStore = require('connect-mongo')
+const MongoStore = require('connect-mongo').default 
 
 const connectDB = require('./server/config/datab')
 //const  isActiveRoute  = require('./server/helpers/routeHelpers')
