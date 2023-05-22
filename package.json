@@ -26,9 +26,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  },
-  "engines": {
-    "npm": "please-use-yarn",
-    " yarn": ">= 1.19.1 "
   }
 }
