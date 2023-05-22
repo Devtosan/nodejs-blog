@@ -28,7 +28,7 @@
     "nodemon": "^2.0.22"
   },
   "engines": {
-    "yarn": "please-use-npm",
-    "npm": ">=14.15.0 "
+    "npm": "please-use-yarn",
+    " yarn": ">= 1.19.1 "
   }
 }
